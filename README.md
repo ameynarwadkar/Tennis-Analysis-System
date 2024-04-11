@@ -33,10 +33,7 @@ This repository contains the codebase for a comprehensive computer vision projec
    - Modify the configurations and parameters in the scripts to tailor the analysis to your specific requirements.
    - Fine-tune models on additional datasets for improved performance in different conditions.
    
-## Documentation
-
-For detailed instructions and usage guidelines, refer to the [documentation](link/to/documentation) provided in this repository.
 
 ## Contributions
 
-Contributions, bug fixes, and feature enhancements are welcomed through pull requests. Please refer to the [contribution guidelines](link/to/contribution/guidelines) for more information.
+Contributions, bug fixes, and feature enhancements are welcomed through pull requests. 
