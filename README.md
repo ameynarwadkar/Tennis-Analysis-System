@@ -1,7 +1,3 @@
-Certainly! Here's a README.md file for your project:
-
----
-
 # Tennis Match Analysis with Computer Vision
 
 ![Tennis Match Analysis](output_video_img.png)
