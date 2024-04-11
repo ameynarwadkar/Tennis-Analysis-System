@@ -6,9 +6,8 @@
 
 This repository contains the codebase for a comprehensive computer vision project designed for analyzing tennis matches. Leveraging advanced techniques and models, the system offers multi-faceted insights into gameplay dynamics, player movements, and ball trajectories.
 
-<video width="640" height="360" controls>
-  <source src="output_videos/output_video.mp4" type="video/mp4">
-</video>
+![Video](https://github.com/ameynarwadkar/Tennis-Analysis-System/blob/main/output_videos/output_video.mp4)
+
 
 ## Key Features
 
@@ -43,8 +42,3 @@ For detailed instructions and usage guidelines, refer to the [documentation](lin
 ## Contributions
 
 Contributions, bug fixes, and feature enhancements are welcomed through pull requests. Please refer to the [contribution guidelines](link/to/contribution/guidelines) for more information.
-
-## License
-
-This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE.md) file for details.
-
