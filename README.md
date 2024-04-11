@@ -6,8 +6,6 @@
 
 This repository contains the codebase for a comprehensive computer vision project designed for analyzing tennis matches. Leveraging advanced techniques and models, the system offers multi-faceted insights into gameplay dynamics, player movements, and ball trajectories.
 
-![Video](https://github.com/ameynarwadkar/Tennis-Analysis-System/blob/main/output_videos/output_video.mp4)
-
 
 ## Key Features
 
