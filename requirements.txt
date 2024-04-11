@@ -1,0 +1,12 @@
+accelerate==0.28.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+opencv-python-headless==4.8.0.74
+pandas==1.5.3
+pandas-datareader==0.10.0
+matplotlib==3.8.3
+ultralytics==8.1.29
+torch==2.2.1+cu118
+torchaudio==2.2.1+cu118
+torchvision==0.17.1+cu118
+transformers==4.38.2
