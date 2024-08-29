@@ -6,6 +6,7 @@
 
 This repository contains the codebase for a comprehensive computer vision project designed for analyzing tennis matches. Leveraging advanced techniques and models, the system offers multi-faceted insights into gameplay dynamics, player movements, and ball trajectories.
 
+Here's the link to the post on LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7184230793005740033/
 
 ## Key Features
 
